@@ -39,7 +39,7 @@ public class Exercise6 {
         sWage.close();
         sMon.close();
         sTues.close();
-        sWage.close();
+        sWed.close();
         sThur.close();
         sFri.close();
         sSat.close();
